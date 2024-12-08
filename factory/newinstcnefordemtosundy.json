@@ -1,0 +1,9 @@
+{
+	"name": "newinstcnefordemtosundy",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a222e85a-63d6-42d3-93c5-90b1666b478a",
+		"tenantId": "fae44175-1e3b-4ad0-8afd-ba5a837345f2"
+	}
+}
